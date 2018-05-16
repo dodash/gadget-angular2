@@ -1,4 +1,4 @@
-# gadget-angular2   [![Build Status](https://travis-ci.org/dodash/gadget-angular2.svg?branch=master)](https://travis-ci.org/dodash/gadget-angular2)   [![Coverage Status](https://coveralls.io/repos/github/dodash/gadget-angular2/badge.svg?branch=master)](https://coveralls.io/github/dodash/gadget-angular2?branch=master)
+# gadget-angular2   [![Build Status](https://travis-ci.org/dodash/gadget-angular2.svg?branch=master)](https://travis-ci.org/dodash/gadget-angular2)
 scaffold for angularj2 using yeoman
 
 

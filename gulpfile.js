@@ -27,3 +27,8 @@ function watch(done) {
   gulp.watch(conf.path.tmp('index.html'), reloadBrowserSync);
   done();
 }
+
+gulp.task('coveralls', ['test'], function() {
+	gulp.src('coverage/lcov.info')
+	.pipe(coveralls());
+});
